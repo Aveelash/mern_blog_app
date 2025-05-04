@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Top 10 Rooftop Hotels Around the World",
+    "description": "Discover the world’s most breathtaking rooftop hotels — where luxury meets the skyline.",
+    "content": {
+      "time": 1687891234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "Imagine sipping a cocktail by a rooftop pool while gazing at the New York skyline or enjoying sunset views in Bangkok from your hotel suite. These top 10 rooftop hotels redefine luxury and offer sky-high experiences like no other."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "This curated list features destinations across the globe — from Paris to Tokyo — offering unforgettable views, rooftop bars, and exclusive amenities high above the city streets."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://media.istockphoto.com/id/1407297456/photo/view-at-singapore-from-marina-bay-sands-infinity-pool.jpg?s=612x612&w=0&k=20&c=PZOoWzENF2uXfcYaH0ref0KYbBiRirMg4dJDJ44eSo4=",
+    "category": "Travel",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.9,
+    "createdAt": "2025-04-20T08:30:00Z"
+  },
+  {
+    "title": "Why Rooftop Hotels Are the Future of Luxury Stays",
+    "description": "A deep dive into the soaring popularity of rooftop hotels and their luxurious appeal.",
+    "content": {
+      "time": 1687991234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "Rooftop hotels aren’t just places to stay — they’re elevated experiences. From panoramic views to exclusive rooftop lounges, these high-rise havens are redefining what it means to travel in style."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "We break down the key features that make rooftop hotels a fast-growing trend in the global hospitality scene — privacy, ambiance, and unbeatable vistas."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://cms.interiorcompany.com/wp-content/uploads/2024/05/cable-wire-glass-railing-design-for-contemporary-roof-decks.jpg",
+    "category": "Hospitality",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.7,
+    "createdAt": "2025-04-19T10:00:00Z"
+  },
+  {
+    "title": "The Architectural Beauty of Rooftop Hotels",
+    "description": "Explore the architectural brilliance that shapes today’s iconic rooftop hotels.",
+    "content": {
+      "time": 1688091234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "Where design meets the skyline — modern rooftop hotels use cutting-edge materials, sustainable innovations, and artful architecture to create standout spaces above the city buzz."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "This article dives into structural techniques, glass-wall aesthetics, and how rooftop design transforms the guest experience."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://sdg-migration-id.s3.amazonaws.com/16508-Musee-du-Louvre-storage-2.jpg",
+    "category": "Architecture",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.6,
+    "createdAt": "2025-04-18T14:45:00Z"
+  },
+  {
+    "title": "Rooftop Hotel Pools: A Luxurious Escape",
+    "description": "Dive into the world’s most luxurious rooftop hotel pools — a true sky-high escape.",
+    "content": {
+      "time": 1688191234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "Infinity pools suspended above the city, surrounded by chic lounges and stunning views — these rooftop hotel pools turn a simple swim into a once-in-a-lifetime experience."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "From Dubai to Los Angeles, here are the top hotel pools where luxury meets skyline serenity."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://images.stockcake.com/public/a/7/4/a74b9ddd-cef0-4548-81a0-3362cfb63015_large/luxurious-infinity-pool-stockcake.jpg",
+    "category": "Luxury",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.8,
+    "createdAt": "2025-04-17T16:30:00Z"
+  },
+  {
+    "title": "The Best Rooftop Dining Experiences in Hotels",
+    "description": "Indulge your palate with gourmet rooftop dining at the world’s finest hotels.",
+    "content": {
+      "time": 1688291234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "Imagine savoring a Michelin-star meal under the stars with the city skyline as your backdrop. These rooftop hotel restaurants offer unforgettable culinary experiences that fuse luxury dining with dramatic views."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "We highlight must-visit rooftop dining spots around the globe that deliver both flavor and a feast for the eyes."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://www.designpataki.com/wp-content/uploads/2024/02/5-Rooftop-Restaurants-in-India-Promise-A-Perfect-Golden-Hour-This-Valentines-Day-feature-image-.jpg",
+    "category": "Food & Dining",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.9,
+    "createdAt": "2025-04-16T11:20:00Z"
+  },
+  {
+    "title": "Rooftop Hotels Perfect for Business Travelers",
+    "description": "Discover rooftop hotels that blend productivity with premium comfort for professionals.",
+    "content": {
+      "time": 1688391234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "For the modern business traveler, productivity and relaxation go hand-in-hand. These rooftop hotels offer high-speed workspaces, sleek lounges, and post-meeting escapes — all with a view."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "Explore top-tier rooftop hotel options in global business hubs that combine convenience and class."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://www.shutterstock.com/image-photo/indian-man-clinking-wine-glasses-260nw-2342793235.jpg",
+    "category": "Business Travel",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.5,
+    "createdAt": "2025-04-15T09:00:00Z"
+  },
+  {
+    "title": "Eco-Friendly Rooftop Hotels Leading Sustainability",
+    "description": "Experience luxury with a conscience at these sustainable rooftop hotels.",
+    "content": {
+      "time": 1688491234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "As eco-travel trends rise, rooftop hotels are going green. Discover how luxury stays are embracing solar energy, green rooftops, and sustainable architecture without compromising style or comfort."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "These hotels are setting new benchmarks in environmental responsibility while still offering premium rooftop experiences."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://i.pinimg.com/736x/a7/70/6e/a7706e5146d7c7442fb3d41b530c788b.jpg",
+    "category": "Sustainability",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.8,
+    "createdAt": "2025-04-14T12:00:00Z"
+  },
+  {
+    "title": "Rooftop Hotels with the Best City Views",
+    "description": "Stay high above the rest — our top picks for skyline views that steal the show.",
+    "content": {
+      "time": 1688591234567,
+      "blocks": [
+        {
+          "id": "1",
+          "type": "paragraph",
+          "data": {
+            "text": "Whether it’s New York’s glowing skyscrapers or Hong Kong’s harbor lights, these rooftop hotels offer unbeatable views that make every stay unforgettable."
+          }
+        },
+        {
+          "id": "2",
+          "type": "paragraph",
+          "data": {
+            "text": "Photogenic, peaceful, and perfect for a skyline selfie — these are the stays with the most breathtaking perspectives."
+          }
+        }
+      ]
+    },
+    "coverImg": "https://thumbs.dreamstime.com/b/rooftop-terrace-night-city-skyline-view-string-lights-cozy-seating-fire-pit-urban-lifestyle-concept-336917230.jpg",
+    "category": "Scenic Stays",
+    "author": {
+      "id": "admin001",
+      "email": "admin@hotelblog.com"
+    },
+    "rating": 4.9,
+    "createdAt": "2025-04-13T18:40:00Z"
+  }
+]

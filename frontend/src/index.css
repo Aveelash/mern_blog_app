@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+.active {
+  color: #1e73be;
+}
+
+.editorjsdiv h2 {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.editorjsdiv h3,
+h4,
+h5 {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.editorjsdiv li {
+  margin-bottom: 10px;
+  list-style-type: disc;
+  padding-left: 10px;
+  margin-left: 25px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
